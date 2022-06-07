@@ -8,6 +8,7 @@ Includes:
 - A Topic
 - RESTful API Integration
 
+![Results Image for Kafka Listener](/ResultsPic.png)
 
 Inspired by tutorial from YouTube channel: Amigoscode
 
